@@ -1,0 +1,29 @@
+{
+  "name": "ms-reqparse",
+  "version": "1.0.0",
+  "description": "Microservice that parses the request header, providing ipaddr and other data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UcheEke/ms-reqparse.git"
+  },
+  "keywords": [
+    "microservice",
+    "freecodecamp",
+    "request",
+    "headers",
+    "parse"
+  ],
+  "author": "Uche Eke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UcheEke/ms-reqparse/issues"
+  },
+  "homepage": "https://github.com/UcheEke/ms-reqparse#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
